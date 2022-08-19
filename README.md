@@ -10,11 +10,15 @@ Related Articles:
 
   https://www.researchgate.net/publication/349159504_TraumerAI_Dreaming_Music_with_StyleGAN/fulltext/60235392299bf1cc26b55453/TraeumerAI-Dreaming-Music-with-StyleGAN.pdf?origin=publication_detail
 
-
-
 - Stylizing Audio Reactive Visuals
   https://neurips2019creativity.github.io/doc/Stylizing%20Audio%20Reactive%20Visuals.pdf
   
+- Audio-reactive Latent Interpolations with StyleGAN
+  https://wavefunk.xyz/assets/audio-reactive-stylegan/paper.pdf
+  
+Different methods to generate Audio Reactive Interpolations with StyleGAN
+   https://wavefunk.xyz/audio-reactive-stylegan
+
 Related Projects:
 
 - Introducing “Lucid Sonic Dreams”: Sync GAN Art to Music with a Few Lines of Python Code!
